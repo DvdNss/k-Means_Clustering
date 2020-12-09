@@ -4,9 +4,9 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
-# import iris_config as config
-# import recens_config as config
-import flags_config as config
+# from config import iris_config as config
+# from config import recens_config as config
+from config import flags_config as config
 
 
 def find_optimal_clusters(X, maxRange=config.ELBOW_MAX_RANGE, fitIter=300):
