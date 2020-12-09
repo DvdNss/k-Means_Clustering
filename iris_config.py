@@ -1,0 +1,32 @@
+# PROBLEM NAME
+PROBLEM_NAME = 'Iris species'
+
+# CSV VARIABLES
+CSV_PATH = "data/iris.data"
+CSV_COLUMNS = [0, 1, 2, 3]
+CSV_TRUTH = 4
+
+# EGM VARIABLES
+ELBOW_MAX_RANGE = 18
+
+# PCA VARIABLES
+PCA_DIM = 3
+
+# K-MEANS VARIABLES
+ITERATIONS = 15
+CLUSTERS = 3
+COLORS = ['red', 'blue', 'green', 'cyan', 'magenta', 'yellow']
+COLORS2 = ['red', 'green', 'blue']
+ITEM_SIZE = 15
+CENTROID_SIZE = 150
+
+# GRAPH VARIABLES
+# CAMERA
+PLT_ANGLE = 20  # 15
+PLT_AZIM = 125  # 110
+PLT_ZOOM = 0.0005  # 0.005
+
+# DIMENSIONS
+DIM1_NAME = 'dim 1'
+DIM2_NAME = 'dim 2'
+DIM3_NAME = 'dim 3'

@@ -1,0 +1,32 @@
+# PROBLEM NAME
+PROBLEM_NAME = 'Flags'
+
+# CSV VARIABLES
+CSV_PATH = "data/flag.data"
+CSV_COLUMNS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 ]
+CSV_TRUTH = -1
+
+# EGM VARIABLES
+ELBOW_MAX_RANGE = 18
+
+# PCA VARIABLES
+PCA_DIM = 3
+
+# K-MEANS VARIABLES
+ITERATIONS = 15
+CLUSTERS = 4
+COLORS = ['red', 'blue', 'green', 'cyan', 'magenta', 'yellow']
+COLORS2 = ['red', 'green', 'blue']
+ITEM_SIZE = 5
+CENTROID_SIZE = 100
+
+# GRAPH VARIABLES
+# CAMERA
+PLT_ANGLE = 20  # 15
+PLT_AZIM = 80  # 110
+PLT_ZOOM = 0.1  # 0.005
+
+# DIMENSIONS
+DIM1_NAME = 'dim 1'
+DIM2_NAME = 'dim 2'
+DIM3_NAME = 'dim 3'
