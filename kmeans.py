@@ -18,7 +18,7 @@ def find_optimal_clusters(X, maxRange=config.ELBOW_MAX_RANGE, fitIter=300):
         wcss.append(kmeans.inertia_)
 
     plt.plot(range(1, maxRange), wcss)
-    plt.title('Elbow Graph Method on' + config.PROBLEM_NAME)
+    plt.title('Elbow Graph Method on ' + config.PROBLEM_NAME)
     plt.xlabel('Number of clusters')
     plt.ylabel('WCSS')
     plt.show()
