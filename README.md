@@ -1,16 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<h3 align="center">PCA + K-Means</h3>
+<h3 align="center">PCA, Elbow Graph, K-Means</h3>
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/DvdNss/k-Means_Clustering/blob/master/resource/iris.png?raw=true" />
+  <img src="https://github.com/DvdNss/k-Means_Clustering/blob/master/resource/iris_truth.png?raw=true" />
 </p>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project 
 
-KMeans clustering applied to different datasets.
+KMeans clustering applied to different datasets, with PCA and Elbow Graph Method.
 
 <!-- CONTACT -->
 
