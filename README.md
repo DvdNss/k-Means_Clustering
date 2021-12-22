@@ -1,4 +1,46 @@
-ESIREM Big Data Project \
-Collaborators : @dvdnss @BenjaminSCRDL
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+<h3 align="center">PCA + K-Means</h3>
+<p align="center">
+  <img src="" />
+</p>
 
-This project aimed to familiarize with clustering. Python 3.9 is required.
+<!-- ABOUT THE PROJECT -->
+
+## About The Project 
+
+KMeans clustering applied to different datasets.
+
+<!-- CONTACT -->
+
+## Contact
+
+David NAISSE - [@LinkedIn](https://www.linkedin.com/in/davidnaisse/) - private.david.naisse@gmail.com
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/sunwaee/PROJECT_NAME.svg?style=for-the-badge
+
+[contributors-url]: https://github.com/Sunwaee/PROJECT_NAME/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/sunwaee/PROJECT_NAME.svg?style=for-the-badge
+
+[forks-url]: https://github.com/Sunwaee/PROJECT_NAME/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/sunwaee/PROJECT_NAME.svg?style=for-the-badge
+
+[stars-url]: https://github.com/Sunwaee/PROJECT_NAME/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/sunwaee/PROJECT_NAME.svg?style=for-the-badge
+
+[issues-url]: https://github.com/Sunwaee/PROJECT_NAME/issues
+
+[license-shield]: https://img.shields.io/github/license/sunwaee/PROJECT_NAME.svg?style=for-the-badge
+
+[license-url]: https://github.com/Sunwaee/PROJECT_NAME/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://www.linkedin.com/in/davidnaisse/
